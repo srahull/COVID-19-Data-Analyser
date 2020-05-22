@@ -2,7 +2,7 @@
 
 Made by Rahul Sharma & Anmol Deep Gupta 
 
-What are the goals of your assignment?
+What are the goals of the project?
 We analysed the COVID-19 cases worldwide from Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 - We calculated total global cases, death rates, and deaths per day and did the same for US.
 - Plotted interactive graphs and spatial bubble charts.
