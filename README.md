@@ -10,8 +10,7 @@ We analysed the COVID-19 cases worldwide from Center for Systems Science and Eng
 
 ## Few cool feaures: 
 - Automatically gets the latest dataset on the day you run the notebook
-- You can interact with the graps. For example, if there are top 10 cases of COVID and one country is overshadowing other countries then you can remove that country with a click and have a better picture of what is going on. 
-
+- You can interact with the graphs. For example, if there are top 10 cases of COVID and one country is overshadowing other countries then you can remove that country with a click and have a better picture of what is going on.
 
 ## To run:
 Our notebook uses numpy, pandas and plotly.
