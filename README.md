@@ -8,7 +8,7 @@ We analysed the COVID-19 cases worldwide from Center for Systems Science and Eng
 - Plotted interactive graphs and spatial bubble charts.
 
 
-## Few cool feaures: 
+## Few cool features: 
 - Automatically gets the latest dataset on the day you run the notebook
 - You can interact with the graphs. For example, if there are top 10 cases of COVID and one country is overshadowing other countries then you can remove that country with a click and have a better picture of what is going on.
 
