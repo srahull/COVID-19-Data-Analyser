@@ -24,4 +24,4 @@ or
 conda install -c plotly plotly=4.7.1
 
 
-
+Check out the Medium article for this https://medium.com/@srahul.aero/covid-19-data-analyser-8ca1966d458c
